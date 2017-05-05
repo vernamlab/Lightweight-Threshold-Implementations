@@ -1,26 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   13:40:17 12/03/2015
-// Design Name:   parallel_simon
-// Module Name:   C:/Users/Cong/Dropbox/PhDWork/Courses/Spring 2015/Applied Crypto and Physical Attacks/Project/Speck/Control Core/SimonCrypto/src/par_simon_tb.v
-// Project Name:  SimonCrypto
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: parallel_simon
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
 
 module par_simon_tb;
 
