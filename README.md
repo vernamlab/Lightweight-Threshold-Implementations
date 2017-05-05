@@ -36,7 +36,7 @@ https://link.springer.com/chapter/10.1007/978-3-319-54669-8_5
 
 2. A Tale of Two Shares: Why Two-Share Threshold Implementation Seems Worthwhile—and Why it is Not
 
-https://eprint.iacr.org/2016/434
+https://link.springer.com/chapter/10.1007/978-3-662-53887-6_30
 
 ===============================================
 
