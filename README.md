@@ -38,7 +38,10 @@ One import modification of the control core is the random number generator in or
 
 Publications:
 
-1. SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs 
+1. SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs
+
 https://link.springer.com/chapter/10.1007/978-3-319-54669-8_5
+
 2. A Tale of Two Shares: Why Two-Share Threshold Implementation Seems Worthwhile—and Why it is Not
+
 https://eprint.iacr.org/2016/434
