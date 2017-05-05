@@ -21,9 +21,10 @@ We implement FPGA based bit-serialized engine of Speck, to achieve minimal area 
 ===============================================
 
 Usage of the core
-The design is ported to Sasebo GII board for side-channel evaluation. It could be simply embedded into the Verilog codes provided by Sasebo project from http://satoh.cs.uec.ac.jp/SAKURA/hardware/SASEBO-GII.html.
 
-One import modification of the control core is the random number generator in order for data sharing. We use a LFSR to implement this function while you can design you own randomness source as you want. But one may need to remember that the randomness source is better to be placed in the control core instead of the crypto core.
+The designs are ported to Sasebo GII board for side-channel evaluation. It could be simply embedded into the Verilog codes provided by Sasebo project from http://satoh.cs.uec.ac.jp/SAKURA/hardware/SASEBO-GII.html.
+
+One import modification of the control core is the random number generator in order for data sharing of TI version of the ciphers. We use a LFSR to implement this function while you can design you own randomness source as you want. But one may need to remember that the randomness source is better to be placed in the control core instead of the crypto core.
 
 ===============================================
 
