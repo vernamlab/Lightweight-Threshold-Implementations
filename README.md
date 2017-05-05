@@ -35,6 +35,7 @@ The design is ported to Sasebo GII board for side-channel evaluation. It could b
 One import modification of the control core is the random number generator in order for data sharing. We use a LFSR to implement this function while you can design you own randomness source as you want. But one may need to remember that the randomness source is better to be placed in the control core instead of the crypto core.
 
 ================================================
+
 Publications:
 
 1. SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs 
