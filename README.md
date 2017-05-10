@@ -38,6 +38,9 @@ https://link.springer.com/chapter/10.1007/978-3-319-54669-8_5
 
 https://link.springer.com/chapter/10.1007/978-3-662-53887-6_30
 
+3. Silent Simon: A threshold implementation under 100 slices
+
+http://ieeexplore.ieee.org/abstract/document/7140227/
 ===============================================
 
 Acknowledgment:
