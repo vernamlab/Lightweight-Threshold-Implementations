@@ -1,4 +1,4 @@
- #2TI_Simon
+ # 2TI_Simon
  
  2TI_Simon is a masked implementation of lightweight block cipher Simon and the masking scheme adopted is based on the state-of-the-art Threshold Implementation (TI) which is considered as an effective countermeasure againt glitches.
  
